@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "apidoc@vsochina.com",
+  "apidoc": {
+    "title": "用户空间，接口中心",
+    "url" : "https://space.vsochina.com"
+  }
+}
